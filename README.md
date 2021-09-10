@@ -1,4 +1,3 @@
 # hw1
 Homework one 
-
-https://aksangeschu.github.io/hw1/
+https://github.com/aksangeschu/hw1.git
